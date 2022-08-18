@@ -13,9 +13,9 @@
 ### Build private network and test(Bitcoin-ECC)
 [Go to Build private network and test](https://github.com/cryptoecc/bitcoin_ECC/blob/master/doc/Build_private_network.md)
 
-### Build private network and test(Ethereum-ECC)
+### Build ETH-ECC Network and Test(Ethereum-ECC)
 
-[Go to Build private network and test](https://github.com/cryptoecc/ETH-ECC/blob/master/tutorial.md)
+[Go to Build private network and test](https://github.com/istiaque010/ETH-ECC-Network-Setup/blob/master/tutorial.md)
 
 
 ## Lecture
