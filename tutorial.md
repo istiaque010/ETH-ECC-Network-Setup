@@ -1,4 +1,4 @@
-# Build private network and test
+# Build ETH-ECC Network and Test
 Project PI : Heung-No Lee
 
 Email : heungno@gist.ac.kr
